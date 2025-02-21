@@ -1,0 +1,22 @@
+[
+{ 
+    "nama" : "Budi Setiawan",
+    "umur" : 30,
+    "alamat" : {
+        "jalan" : "Jl. Pahlawan",
+        "kota" : "Surabaya",
+        "provinsi" : "Jawa Timur"
+    },
+    "hobi" : ["Membaca", "Bersepeda"]
+},
+{
+    "nama" : "Celine Ven",
+    "umur" : 25,
+    "alamat" : {
+        "jalan" : "Jl. Anggota",
+        "kota" : "Bandung",
+        "provinsi" : "Jawa Barat"
+    },
+    "hobi" : ["Melukis", "Menonton"]
+}
+]
